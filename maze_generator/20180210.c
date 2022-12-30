@@ -13,7 +13,7 @@ int main(int argc, char* argv[]) {
 	//WIDTH = width;
 	//HEIGHT = height;  i will have input with argc/argv
 	if(argc != 3){
-		printf("usage: ./20180210 [WIDTH] [HEIGHT]\n");
+		printf("usage: ./maze [WIDTH] [HEIGHT]\n");
 		exit(1);
 	}
 		   
